@@ -2,6 +2,8 @@
 
 **duo_python** - Duo two-factor authentication for Python web applications
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/71418d8cbd6375b3ea8e/maintainability)](https://codeclimate.com/github/Shoobx/duo_python/maintainability)
+
 This package allows a web developer to quickly add Duo's interactive, self-service, two-factor authentication to any web login form - without setting up secondary user accounts, directory synchronization, servers, or hardware.
 
 What's here:
